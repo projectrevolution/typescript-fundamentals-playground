@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Xbox Series X",
+    "price": 500,
+    "description": "Most powerful gaming system"
+  },
+  {
+    "id": 2,
+    "name": "Sony PS5",
+    "price": 500,
+    "description": "Most powerful gaming system"
+  },
+  {
+    "id": 3,
+    "name": "Nintendo Switch",
+    "price": 350,
+    "description": "Most powerful gaming system"
+  },
+  {
+    "id": 4,
+    "name": "Steam Deck",
+    "price": 625,
+    "description": "Most powerful gaming system"
+  },
+  {
+    "id": 5,
+    "name": "Lotoo Paw 6000",
+    "price": 1299,
+    "description": "The finest dap around"
+
+  }
+]

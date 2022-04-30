@@ -1,0 +1,1 @@
+export const productsURL = './lib/products.json'

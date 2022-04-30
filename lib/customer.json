@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mark O Connor",
+        "age": 41,
+        "phone": "087654332",
+        "address": {
+            "street": "79 Claremont crescent",
+            "town": "Glasnevin",
+            "city": "Dublin",
+            "postcode": "D11X0R1",
+            "country": "Ireland"
+        }
+    }
+]
